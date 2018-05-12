@@ -1,0 +1,29 @@
+_repo: Mr.-Punch-s-History-of-Modern-England-Vol.-II--of-IV---1857-1874_45003
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45003-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Graves, Charles L. (Charles Larcom)
+    aliases:
+    - Graves, C. L. (Charles Larcom)
+    - Graves, Charles Larcom
+    birthdate: 1856
+    deathdate: 1944
+    gutenberg_agent_id: '5634'
+    url: http://www.gutenberg.org/2009/agents/5634
+description: ''
+gutenberg_issued: '2014-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45003'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Victoria, 1837-1901 -- Humor'
+- !lcc 'DA'
+title: Mr. Punch's History of Modern England, Vol. 2 (of 4).—1857-1874
+url: http://www.gutenberg.org/ebooks/45003
